@@ -2,7 +2,7 @@
 <html lang="en">
 
     <head>
-        <title>Hello, dear friends!</title>
+        <title>Hello, dear friends, how is it going?</title>
     </head>
 
     <body>
